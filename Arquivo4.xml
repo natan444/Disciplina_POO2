@@ -1,0 +1,5 @@
+<raiz>
+    <pai_1 atributo1="valor" atributo2="valor">
+        <filho atributo1="valor" atributo2="valor">conteudo</filho>
+    </pai_1>
+</raiz>
